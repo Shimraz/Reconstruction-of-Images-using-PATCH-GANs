@@ -1,3 +1,5 @@
+#Reconstruction-of-Images-using-PATCH-GANs
+
 In this report, we propose deployment of the Generative Patch Prior (GPP) or Patch
 GANs for carrying out the tasks of image deblurring, missing pixels recovery and
 super-resolution. Patch GAN used is with pre-trained weights and the patches
